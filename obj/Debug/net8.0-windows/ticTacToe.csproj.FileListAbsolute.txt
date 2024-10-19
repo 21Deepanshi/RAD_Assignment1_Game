@@ -1,0 +1,16 @@
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\bin\Debug\net8.0-windows\ticTacToe.exe
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\bin\Debug\net8.0-windows\ticTacToe.deps.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\bin\Debug\net8.0-windows\ticTacToe.runtimeconfig.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\bin\Debug\net8.0-windows\ticTacToe.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\bin\Debug\net8.0-windows\ticTacToe.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\obj\Debug\net8.0-windows\ticTacToe.Form1.resources
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\obj\Debug\net8.0-windows\ticTacToe.csproj.GenerateResource.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\obj\Debug\net8.0-windows\ticTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\obj\Debug\net8.0-windows\ticTacToe.AssemblyInfoInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\obj\Debug\net8.0-windows\ticTacToe.AssemblyInfo.cs
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\obj\Debug\net8.0-windows\ticTacToe.csproj.CoreCompileInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\obj\Debug\net8.0-windows\ticTacToe.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\obj\Debug\net8.0-windows\refint\ticTacToe.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\obj\Debug\net8.0-windows\ticTacToe.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\obj\Debug\net8.0-windows\ticTacToe.genruntimeconfig.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\ticTacToe\obj\Debug\net8.0-windows\ref\ticTacToe.dll
